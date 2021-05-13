@@ -1,6 +1,6 @@
 # Welcome to RaagaDB
 
-# Provides 1000+ datapoints on 80+ raagas
+## Provides 1000+ datapoints on 80+ raagas
 
 #### Endpoint: 
 [https://parv-b.github.io/RaagaDB/ragaas.json](https://parv-b.github.io/RaagaDB/ragaas.json "https://parv-b.github.io/RaagaDB/ragaas.json")
