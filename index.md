@@ -1,12 +1,4 @@
-# RaagaDB
-
-A database containing information about raagas from Hindustani classical music and a brief study of their characteristics.
-
-------------
-### Provides >1000 datapoints
-
-------------
-
+# Provides >1000 datapoints
 
 #### Characteristics provided :
 1. Name
@@ -25,9 +17,7 @@ A database containing information about raagas from Hindustani classical music a
 
 ------------
 
-
 #### Source :
 [http://soundofindia.com](http://soundofindia.com "http://soundofindia.com")
-
 
 
