@@ -7,6 +7,7 @@
 
 ### Characteristics provided :
 |Name| Description |
+
 |--|--|
 | Name | Name of raaga |
 | Thaat | Family which raaga belongs to |
