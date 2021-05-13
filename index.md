@@ -3,7 +3,6 @@
 A database containing information about raagas from Hindustani classical music and a brief study of their characteristics.
 
 ------------
-
 ### Provides >1000 datapoints
 
 ------------
