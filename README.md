@@ -2,8 +2,6 @@
 
 ##  80+ raagas, indexed.
 
-------------
-
 ### Characteristics provided :
 |Name| Description |
 |--|--|
