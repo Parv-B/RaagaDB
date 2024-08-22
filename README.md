@@ -1,9 +1,6 @@
-# Welcome to RaagaDB
+# RaagaDB
 
-## Provides 1000+ datapoints on 80+ raagas
-
-#### Endpoint: 
-[https://parv-b.github.io/RaagaDB/ragaas.json](https://parv-b.github.io/RaagaDB/ragaas.json "https://parv-b.github.io/RaagaDB/ragaas.json")
+##  80+ raagas, indexed.
 
 ------------
 
@@ -23,7 +20,6 @@
 | Saptak | The octaves which are used intensively in the raaga|
 | TanpuraTuning | The suggested note for tuning of tanpura in performances |
 | OtherCharacteristics| Other features and tips for performances of the raaga |
-
 
 ------------
 
